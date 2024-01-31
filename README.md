@@ -1,3 +1,2 @@
-# tv
- [央视台+卫视台直播源](https://raw.githubusercontent.com/junhuali886/tv/IPTV.m3u)
-https://fastly.jsdelivr.net/gh/junhuali886/tv/IPTV.m3u
+# 国内直达
+ [央视台+卫视台直播源](https://mirror.ghproxy.com/https://raw.githubusercontent.com/junhuali886/tv/main/IPTV.m3u)
