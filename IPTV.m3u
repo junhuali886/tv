@@ -104,16 +104,16 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=2
 #EXTINF:-1, tvg-id="翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="卫视",TVB翡翠台
-http://r.jdshipin.com/qClQf 
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1, tvg-id="明珠台" tvg-name="TVB明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="卫视",TVB明珠台
-http://r.jdshipin.com/ZQ4kN
+http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="卫视",中国教育-1 8M
-https://live.v1.mk/api/ghyx.php?id=CETV1HD_6000
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1, tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="卫视",中国教育-3
-https://live.v1.mk/api/ghyx.php?id=CETV3HD_2000
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="卫视",中国教育-4 8M
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑莓",黑莓电影
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=2
@@ -164,9 +164,9 @@ https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
 #EXTINF:-1, tvg-id="BesTV 4K电影" tvg-name="BesTV 4K电影" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png" group-title="BesTV",BesTV 4K电影
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IA
 #EXTINF:-1, tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="BesTV",SITV都市剧场
-https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
+http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
 #EXTINF:-1, tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K",欢笑剧场4K
-https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
 
 #EXTINF:-1, tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://epg.112114.xyz/logo/精彩影视.png" group-title="精彩影视",精彩影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
@@ -212,17 +212,3 @@ http://39.134.136.160:6610/000000001000/6000000006000090630/index.m3u8?channel-i
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/aidm.png" group-title="iHOT系列",iHOT爱动漫
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 
-
-#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="影视",东方影视
-http://maomao.kandiantv.cn/m3u8.php?/migu/617290047
-#EXTINF:-1,tvg-id="过瘾大片" tvg-name="过瘾大片" tvg-logo="https://epg.112114.xyz/logo/过瘾大片.png" group-title="影视",过瘾大片
-http://maomao.kandiantv.cn/m3u8.php?/migu/627198610
-#EXTINF:-1,tvg-id="IPTV经典电影" tvg-name="IPTV经典电影" tvg-logo="https://epg.112114.xyz/logo/IPTV经典电影.png" group-title="影视",经典电影
-http://maomao.kandiantv.cn/m3u8.php?/migu/625703337
-
-#EXTINF:-1 tvg-id="" tvg-name="4K超高清电影" tvg-logo="" group-title="",4K超高清电影
-http://159.75.85.63:5681/sxg.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络",K K_女神影院
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络",关注微信公众号
-http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
