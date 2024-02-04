@@ -2,10 +2,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",﻿纯享4K 20M2160
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="宁夏",宁夏公共
-http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
+http://39.134.93.229:6610/000000001000/nxgonggong/1.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="宁夏",宁夏经济
-http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="宁夏",宁夏经济 超高清
 http://39.134.93.229:6610/000000001000/nxjingji/1.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="宁夏",宁夏文旅
 http://39.134.93.229:6610/000000001000/nxyingshi/1.m3u8?IASHttpSessionId=
