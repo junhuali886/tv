@@ -130,32 +130,20 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8103864
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6152b4427ea36.jpg" group-title="NewTV",NewTV家庭剧场
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/newtvjsxy.png" group-title="NewTV",NewTV惊悚悬疑
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/junhuali886/IPTV/raw/master/logo/newtv.png" group-title="NewTV",NewTV明星大片
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/junhuali886/IPTV/raw/master/logo/newtv.png" group-title="NewTV",NewTV海外剧场
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/newtvaqxj.png" group-title="NewTV",NewTV爱情喜剧
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/newtvjpdj.png" group-title="NewTV",NewTV精品大剧
+#EXTINF:-1 tvg-name="newtv精品大剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品大剧.png" group-title="NewTV",NewTV精品大剧
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/newtvjpjl.png" group-title="NewTV",NewTV精品纪录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/newtvjpdj.png" group-title="NewTV",NewTV烽烟剧场
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/newtvcjdy.png" group-title="NewTV",NewTV超级电影
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/junhuali886/IPTV/raw/master/logo/newtv.png" group-title="NewTV",NewTV超级电视剧
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/junhuali886/IPTV/raw/master/logo/newtv.png" group-title="NewTV",NewTV欢乐剧场
-http://39.134.65.162/PLTV/88888888/224/3221225682/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/junhuali886/IPTV/raw/master/logo/newtv.png" group-title="NewTV",NewTV热播精选
-http://39.134.65.162/PLTV/88888888/224/3221225521/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/junhuali886/IPTV/raw/master/logo/newtv.png" group-title="NewTV",NewTV精品综合
-http://39.134.65.164/PLTV/88888888/224/3221225550/1.m3u8
+http://gslbserv.itv.cmvideo.cn/1000000005000266012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/newtvcjzy.png" group-title="NewTV",NewTV超级综艺
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=2
-#EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" group-title="NewTV" tvg-logo="http://n.ysyz.top:99/buyaolian/newtvjpzy.png",金牌综艺
-http://39.135.7.132:6610/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="NEWTV谍战大剧" tvg-name="NEWTV谍战大剧" group-title="NewTV" tvg-logo="http://n.ysyz.top:99/buyaolian/newtvjpzy.png",谍战大剧
+http://gslbserv.itv.cmvideo.cn/1000000004000026167/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
 
 #EXTINF:-1, tvg-id="BesTV全球大片" tvg-name="BesTV全球大片" tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="BesTV",BesTV全球大片
 https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
