@@ -4,9 +4,9 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="宁夏",宁夏公共
 http://39.134.93.229:6610/000000001000/nxgonggong/1.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="宁夏",宁夏经济
-http://39.134.93.229:6610/000000001000/nxjingji/1.m3u8?IASHttpSessionId=
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=20260208120236863e14b7eab446138f4d5e17cf3ce14c&mdspid=&spid=600697&netType=0&sid=5910022327&pid=2028597139&timestamp=20260208120236&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067520&ParentNodeID=-99&assertID=5910022327&client_ip=218.28.233.106&SecurityKey=20260208120236&promotionId=&mvid=5900006787&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=96d437c479d795c1aa891150b4b7f6a9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="宁夏",宁夏文旅
-http://39.134.93.229:6610/000000001000/nxyingshi/1.m3u8?IASHttpSessionId=
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxwl/51/20251225/index.m3u8?msisdn=202602081202361ee932dee5e04f58bd4e25ba3b46a1be&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20260208120236&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=218.28.233.106&SecurityKey=20260208120236&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=05c1cdc77d60f0b97272d859a4de218f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="宁夏",宁夏少儿
 http://39.134.93.229:6610/000000001000/nxshaoer/1.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="宁夏",宁夏教育
@@ -58,6 +58,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中数",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC影迷电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中数",CHC影迷电影
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=202602081202363cacc66468c640e98d8051db5da2129c&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260208120236&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=218.28.233.106&SecurityKey=20260208120236&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0ef14f7b9c73a827d0f1121280753c97
 #EXTINF:-1 tvg-id="" tvg-name="1905电影" tvg-logo="http://iptv.cooltv.top/logo/1905.png" group-title="中数",1905电影网
 http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 
@@ -211,4 +213,90 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u
 http://39.134.136.160:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3&stbId=3
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/aidm.png" group-title="iHOT系列",iHOT爱动漫
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/242/089/202508211805_1755769511908_H32_1080.webp" group-title="电影",经典港片电影
+https://yylunbo.ottiptv.cc/yy/1461889059
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/重温经典.png" group-title="电影",经典电影重温
+https://yylunbo.ottiptv.cc/yy/1382793140
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/aidm.png" group-title="电影",精彩动作电影
+https://yylunbo.ottiptv.cc/yy/1382736809
 
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="港台频道",凤凰香港
+http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="港台频道",CH5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 group-title="港台频道",CH8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 group-title="港台频道",CHU
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 group-title="港台频道",明珠台
+http://cdn6.163189.xyz/163189/mzt
+#EXTINF:-1 group-title="港台频道",澳门莲花
+http://cdn6.163189.xyz/163189/amlh
+#EXTINF:-1 group-title="港台频道",重温经典
+http://cdn6.163189.xyz/163189/cwjd
+#EXTINF:-1 group-title="港台频道",TVB戏剧
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 group-title="港台频道",TVB武侠
+http://cdn6.163189.xyz/163189/yzwx
+#EXTINF:-1 group-title="港台频道",TVB星河
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 group-title="港台频道",TVBS精采
+http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 group-title="港台频道",TVB Plus
+http://67.220.67.246:2347/livehttpplay?channel_id=30023
+#EXTINF:-1 group-title="港台频道",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 group-title="港台频道",天映经典
+https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 group-title="港台频道",千禧经典
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 group-title="港台频道",ROCK
+http://iptv.4666888.xyz/iptv2A.php?id=50
+#EXTINF:-1 group-title="港台频道",MYTV SUPER
+http://iptv.4666888.xyz/iptv2A.php?id=24
+#EXTINF:-1 group-title="港台频道",HOY77
+http://cdn6.163189.xyz/163189/hoy
+#EXTINF:-1 group-title="港台频道",HOY78
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 group-title="港台频道",靖洋戏剧
+http://iptv.4666888.xyz/iptv2A.php?id=42
+#EXTINF:-1 group-title="港台频道",民视综艺
+http://iptv.4666888.xyz/iptv2A.php?id=46
+#EXTINF:-1 group-title="港台频道",民视影剧
+http://iptv.4666888.xyz/iptv2A.php?id=53
+#EXTINF:-1 group-title="港台频道",东森电影
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1 group-title="港台频道",RHK31
+http://iptv.4666888.xyz/iptv2A.php?id=23
+#EXTINF:-1 group-title="港台频道",RTHK 32
+http://67.220.67.246:2347/livehttpplay?channel_id=20203
+#EXTINF:-1 group-title="港台频道",美亚电影
+http://67.220.67.246:2347/livehttpplay?channel_id=20197
+#EXTINF:-1 group-title="港台频道",ASTRO AEC
+http://67.220.67.246:2347/livehttpplay?channel_id=20703
+#EXTINF:-1 group-title="港台频道",ASTRO AOD
+http://67.220.67.246:2347/livehttpplay?channel_id=20707
+#EXTINF:-1 group-title="港台频道",ASTRO QJ
+http://67.220.67.246:2347/livehttpplay?channel_id=20704
+#EXTINF:-1 group-title="港台频道",ASTRO欢喜台
+http://67.220.67.246:2347/livehttpplay?channel_id=20705
+#EXTINF:-1 group-title="港台频道",纬来电影
+http://67.220.67.246:2347/livehttpplay?channel_id=20199
+#EXTINF:-1 group-title="港台频道",纬来综合
+http://67.220.67.246:2347/livehttpplay?channel_id=20201
+#EXTINF:-1 group-title="港台频道",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="港台频道",NOW财经台
+http://67.220.67.246:2347/livehttpplay?channel_id=13000
+#EXTINF:-1 group-title="港台频道",Now爆谷台
+http://67.220.67.246:2347/livehttpplay?channel_id=13002
+#EXTINF:-1 group-title="港台频道",VIUTV
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1 group-title="港台频道",VIUTV 6
+http://67.220.67.246:2347/livehttpplay?channel_id=30033
