@@ -45,15 +45,22 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=2
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=2
+#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdyjc.png" group-title="央视",第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyjc.png" group-title="央视",风云剧场
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVhjjc.png" group-title="央视",怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="中数",CHC动作电影
-http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="中数",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中数",CHC家庭影院
-http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpubhttp://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC影迷电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="中数",CHC影迷电影
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=202602081202363cacc66468c640e98d8051db5da2129c&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260208120236&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=218.28.233.106&SecurityKey=20260208120236&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0ef14f7b9c73a827d0f1121280753c97
-
+http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="卫视",重温经典
+http://otangtang.com:38848/udp/239.3.1.25:8001
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="卫视",重温经典
 http://183.215.134.239:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
